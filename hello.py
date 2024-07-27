@@ -13,7 +13,6 @@ file_extensions = {
     "bmp": "Images",
     "doc": "Documents",
     "docx": "Documents",
-    
     "odt": "Documents",
     "xls": "Spreadsheets",
     "xlsx": "Spreadsheets",
